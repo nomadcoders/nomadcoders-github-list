@@ -26,6 +26,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Ele             | https://github.com/ryan3780        |
 | Evan Jin        | https://github.com/seongjoojin     |
 | Flynn           | https://github.com/wphestiraid     |
+| Geon Lee        | https://github.com/dl0312          |
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
 | Jongkeun        | https://github.com/Jongkeun        |
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
