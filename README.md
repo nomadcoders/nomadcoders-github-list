@@ -41,3 +41,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | 햇반 홍         | https://github.com/Hatvan          |
+| dev4us          | https://github.com/dev4us          |
