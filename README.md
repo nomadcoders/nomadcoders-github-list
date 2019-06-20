@@ -6,6 +6,7 @@
 
 | Nickname(Slack) | Github                          |
 | --------------- | ------------------------------- |
+| Dal Yoon        | https://github.com/dalyoon      |
 | Danah           | https://github.com/sweetmilkys  |
 | Ele             | https://github.com/ryan3780     |
 | Flynn           | https://github.com/wphestiraid  |
