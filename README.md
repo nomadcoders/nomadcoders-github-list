@@ -13,6 +13,7 @@
 | Dal Yoon        | https://github.com/dalyoon      |
 | Danah           | https://github.com/sweetmilkys  |
 | Ele             | https://github.com/ryan3780     |
+| Evan Jin        | https://github.com/seongjoojin  |
 | Flynn           | https://github.com/wphestiraid  |
 | Hyegyeong Han   | https://github.com/Hyegyeong310 |
 | Jongkeun        | https://github.com/Jongkeun     |
