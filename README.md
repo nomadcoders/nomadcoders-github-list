@@ -1,4 +1,6 @@
-# Nomadcoders Github List
+# NomadCoders Github List
+
+Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 ## Nicolas
 
