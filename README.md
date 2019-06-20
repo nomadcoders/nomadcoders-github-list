@@ -19,6 +19,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 | Nickname(Slack) | Github                             |
 | --------------- | ---------------------------------- |
+| corini          | https://github.com/sw-corini       |
 | Dal Yoon        | https://github.com/dalyoon         |
 | Danah           | https://github.com/sweetmilkys     |
 | devs            | https://github.com/sooyoungsGithub |
