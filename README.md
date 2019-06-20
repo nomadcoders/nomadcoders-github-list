@@ -1,6 +1,11 @@
-[![NomadCoders Logo](./images/NomadCoders.png)](https://academy.nomadcoders.co)
+<div align="center">
+<a href="https://academy.nomadcoders.co" alt="NomadCoders Academy">
+  <img src="./images/NomadCoders.png" width="200" height="200">
+</a>
 
 # NomadCoders Github List
+
+</div>
 
 Github list of [NomadCoders](https://academy.nomadcoders.co)
 
