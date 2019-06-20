@@ -3,14 +3,17 @@
 | Nickname(Slack)         | Github                            |
 | ----------------------- | --------------------------------- |
 | Nicolás Serrano Arévalo | https://github.com/serranoarevalo |
-| Flynn                   | https://github.com/wphestiraid    |
-| marcus                  | https://github.com/Jogeonsang     |
-| Jongkeun                | https://github.com/Jongkeun       |
-| Ele                     | https://github.com/ryan3780       |
-| LINA                    | https://github.com/minjijo        |
-| sihyun                  | https://github.com/skim0726       |
-| 햇반 홍                 | https://github.com/Hatvan         |
-| Lim Jungwoon            | https://github.com/jungwoonlim    |
-| Hyegyeong Han           | https://github.com/Hyegyeong310   |
-| Steveyyy                | https://github.com/hyunjaesung    |
-| Danah                   | https://github.com/sweetmilkys    |
+
+| Nickname(Slack) | Github                          |
+| --------------- | ------------------------------- |
+| Danah           | https://github.com/sweetmilkys  |
+| Ele             | https://github.com/ryan3780     |
+| Flynn           | https://github.com/wphestiraid  |
+| Hyegyeong Han   | https://github.com/Hyegyeong310 |
+| Jongkeun        | https://github.com/Jongkeun     |
+| Lim Jungwoon    | https://github.com/jungwoonlim  |
+| LINA            | https://github.com/minjijo      |
+| marcus          | https://github.com/Jogeonsang   |
+| sihyun          | https://github.com/skim0726     |
+| Steveyyy        | https://github.com/hyunjaesung  |
+| 햇반 홍         | https://github.com/Hatvan       |
