@@ -1,13 +1,15 @@
 <div align="center">
-<a href="https://academy.nomadcoders.co" alt="NomadCoders Academy">
-  <img src="./images/NomadCoders.png" width="200" height="200">
-</a>
-
-# NomadCoders Github List
-
+  <a href="https://academy.nomadcoders.co" alt="NomadCoders Academy">
+    <img src="./images/NomadCoders.png" width="200" height="200">
+  </a>
+  <h1 style="margin-top: 0;">NomadCoders Github List</h1>
 </div>
 
 Github list of [NomadCoders](https://academy.nomadcoders.co)
+
+## Contributing
+
+자신의 정보를 추가하고 싶으시면 언제든지 편하게 이슈/풀 리퀘스트 보내주세요!
 
 ## Nicolas
 
