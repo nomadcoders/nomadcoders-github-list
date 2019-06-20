@@ -21,6 +21,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | --------------- | ---------------------------------- |
 | Dal Yoon        | https://github.com/dalyoon         |
 | Danah           | https://github.com/sweetmilkys     |
+| devs            | https://github.com/sooyoungsGithub |
 | Ele             | https://github.com/ryan3780        |
 | Evan Jin        | https://github.com/seongjoojin     |
 | Flynn           | https://github.com/wphestiraid     |
@@ -33,5 +34,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | sihyun          | https://github.com/skim0726        |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
-| 햇반 홍            | https://github.com/Hatvan          |
-| devs            | https://github.com/sooyoungsGithub |
+| 햇반 홍         | https://github.com/Hatvan          |
