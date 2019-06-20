@@ -2,10 +2,12 @@
   <a href="https://academy.nomadcoders.co" alt="NomadCoders Academy">
     <img src="./images/NomadCoders.png" width="200" height="200">
   </a>
-  <h1 style="margin-top: 0;">NomadCoders Github List</h1>
-</div>
+
+# NomadCoders Github List
 
 Github list of [NomadCoders](https://academy.nomadcoders.co)
+
+</div>
 
 ## Contributing
 
