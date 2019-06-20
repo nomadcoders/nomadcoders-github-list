@@ -33,6 +33,8 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Flynn           | https://github.com/wphestiraid     |
 | Geon Lee        | https://github.com/dl0312          |
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
+| jerrynim        | https://github.com/jerrynim        |
+| JIMIN           | https://github.com/jiminyun        |
 | Jongkeun        | https://github.com/Jongkeun        |
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
 | LINA            | https://github.com/minjijo         |
@@ -42,4 +44,3 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | 햇반 홍         | https://github.com/Hatvan          |
-
