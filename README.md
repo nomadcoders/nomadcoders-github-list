@@ -1,4 +1,4 @@
-[![NomadCoders Logo](./NomadCoders.png | width=100)](https://academy.nomadcoders.co)
+[![NomadCoders Logo](./images/NomadCoders.png | width=100)](https://academy.nomadcoders.co)
 
 # NomadCoders Github List
 
