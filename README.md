@@ -1,8 +1,12 @@
 # Nomadcoders Github List
 
+## Nicolas
+
 | Nickname(Slack)         | Github                            |
 | ----------------------- | --------------------------------- |
 | Nicolás Serrano Arévalo | https://github.com/serranoarevalo |
+
+## Github List
 
 | Nickname(Slack) | Github                          |
 | --------------- | ------------------------------- |
@@ -16,4 +20,5 @@
 | marcus          | https://github.com/Jogeonsang   |
 | sihyun          | https://github.com/skim0726     |
 | Steveyyy        | https://github.com/hyunjaesung  |
+| yongyeon.kim    | https://github.com/yykdev       |
 | 햇반 홍         | https://github.com/Hatvan       |
