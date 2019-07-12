@@ -28,6 +28,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Danah           | https://github.com/sweetmilkys     |
 | dev4us          | https://github.com/dev4us          |
 | devs            | https://github.com/sooyoungsGithub |
+| Dongri          | https://github.com/Shindongri      |
 | Ele             | https://github.com/ryan3780        |
 | Evan Jin        | https://github.com/seongjoojin     |
 | Flynn           | https://github.com/wphestiraid     |
