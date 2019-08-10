@@ -38,6 +38,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | jerrynim        | https://github.com/jerrynim        |
 | JIMIN           | https://github.com/jiminyun        |
 | Jongkeun        | https://github.com/Jongkeun        |
+| Jun-Sik Choi    | https://github.com/JunsikChoi      |
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
 | LINA            | https://github.com/minjijo         |
 | marcus          | https://github.com/Jogeonsang      |
