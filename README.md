@@ -37,6 +37,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
 | jerrynim        | https://github.com/jerrynim        |
 | JIMIN           | https://github.com/jiminyun        |
+| Johny Kim       | https://github.com/Johnyworld      |
 | Jongkeun        | https://github.com/Jongkeun        |
 | Jun-Sik Choi    | https://github.com/JunsikChoi      |
 | kioryu          | https://github.com/kioryu          |
