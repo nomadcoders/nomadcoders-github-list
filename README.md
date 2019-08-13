@@ -41,6 +41,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Johny Kim       | https://github.com/Johnyworld      |
 | Jongkeun        | https://github.com/Jongkeun        |
 | Jun-Sik Choi    | https://github.com/JunsikChoi      |
+| Kang Yuchan     | https://github.com/Kang-Yuchan     |
 | kioryu          | https://github.com/kioryu          |
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
 | LINA            | https://github.com/minjijo         |
