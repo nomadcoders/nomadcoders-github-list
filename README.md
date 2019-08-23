@@ -47,6 +47,8 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | LINA            | https://github.com/minjijo         |
 | marcus          | https://github.com/Jogeonsang      |
 | moondaddi       | https://github.com/mattdamon108    |
+| nalp            | https://github.com/jonggyun        |
+| ny              | https://github.com/ny0011          |
 | sihyun          | https://github.com/skim0726        |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
