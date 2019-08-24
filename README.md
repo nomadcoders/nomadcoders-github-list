@@ -46,9 +46,11 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
 | LINA            | https://github.com/minjijo         |
 | marcus          | https://github.com/Jogeonsang      |
+| Min Chul Roh    | https://github.com/Peter-Roh       |
 | moondaddi       | https://github.com/mattdamon108    |
 | nalp            | https://github.com/jonggyun        |
 | ny              | https://github.com/ny0011          |
+| Sarah Kim       | https://github.com/Siromom         |
 | sihyun          | https://github.com/skim0726        |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
