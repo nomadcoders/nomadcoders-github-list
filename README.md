@@ -28,6 +28,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Dal Yoon        | https://github.com/dalyoon         |
 | Danah           | https://github.com/sweetmilkys     |
 | dev4us          | https://github.com/dev4us          |
+| devinan         | https://github.com/devinan         |
 | devs            | https://github.com/sooyoungsGithub |
 | Dongri          | https://github.com/Shindongri      |
 | Ele             | https://github.com/ryan3780        |
@@ -58,4 +59,3 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
 | 햇반 홍         | https://github.com/Hatvan          |
-| devinan         | https://github.com/devinan         |
