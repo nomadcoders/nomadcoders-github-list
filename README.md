@@ -54,7 +54,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | nalp            | https://github.com/jonggyun        |
 | ny              | https://github.com/ny0011          |
 | Sarah Kim       | https://github.com/sewonkimm       |
-| sihyun          | https://github.com/skim0726        |
+| sihyun          | https://github.com/sikim0726       |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
