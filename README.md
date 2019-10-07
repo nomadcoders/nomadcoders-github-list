@@ -39,6 +39,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
 | jerrynim        | https://github.com/jerrynim        |
 | JIMIN           | https://github.com/jiminyun        |
+| JINHO SON       | https://github.com/Trapa-Eureka    |
 | Jinho1011       | https://github.com/Jinho1011       |
 | Jiyeon Hong     | https://github.com/jenniexxi       |
 | Johny Kim       | https://github.com/Johnyworld      |
@@ -53,8 +54,9 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | moondaddi       | https://github.com/mattdamon108    |
 | nalp            | https://github.com/jonggyun        |
 | ny              | https://github.com/ny0011          |
-| Sarah Kim       | https://github.com/sewonkimm       |
-| sihyun          | https://github.com/sikim0726       |
+| Sarah Kim       | https://github.com/Siromom         |
+| SH Kim          | https://github.com/feud72          |
+| sihyun          | https://github.com/skim0726        |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
