@@ -47,11 +47,13 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Jun-Sik Choi    | https://github.com/JunsikChoi      |
 | Kang Yuchan     | https://github.com/Kang-Yuchan     |
 | kioryu          | https://github.com/kioryu          |
+| Larry           | https://github.com/Kunune          |
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
 | LINA            | https://github.com/minjijo         |
 | marcus          | https://github.com/Jogeonsang      |
 | Min Chul Roh    | https://github.com/Peter-Roh       |
 | moondaddi       | https://github.com/mattdamon108    |
+| nagong100       | https://github.com/LESANF          |
 | nalp            | https://github.com/jonggyun        |
 | ny              | https://github.com/ny0011          |
 | Sarah Kim       | https://github.com/Siromom         |
