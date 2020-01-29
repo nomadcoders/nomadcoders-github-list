@@ -63,3 +63,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
 | 햇반 홍         | https://github.com/Hatvan          |
+| Kimminsu        | https://github.com/alstn2468       |
