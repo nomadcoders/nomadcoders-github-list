@@ -33,6 +33,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Dongri          | https://github.com/Shindongri      |
 | Ele             | https://github.com/ryan3780        |
 | Evan Jin        | https://github.com/seongjoojin     |
+| ehddnr          | https://github.com/ehddnr301       |
 | Flynn           | https://github.com/wphestiraid     |
 | Geon Lee        | https://github.com/dl0312          |
 | Geonwoo         | https://github.com/geonwoo-jeong   |
