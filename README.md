@@ -31,9 +31,9 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | devinan         | https://github.com/devinan         |
 | devs            | https://github.com/sooyoungsGithub |
 | Dongri          | https://github.com/Shindongri      |
+| ehddnr          | https://github.com/ehddnr301       |
 | Ele             | https://github.com/ryan3780        |
 | Evan Jin        | https://github.com/seongjoojin     |
-| ehddnr          | https://github.com/ehddnr301       |
 | Flynn           | https://github.com/wphestiraid     |
 | Geon Lee        | https://github.com/dl0312          |
 | Geonwoo         | https://github.com/geonwoo-jeong   |
@@ -47,6 +47,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Jongkeun        | https://github.com/Jongkeun        |
 | Jun-Sik Choi    | https://github.com/JunsikChoi      |
 | Kang Yuchan     | https://github.com/Kang-Yuchan     |
+| Kimminsu        | https://github.com/alstn2468       |
 | kioryu          | https://github.com/kioryu          |
 | Larry           | https://github.com/Kunune          |
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
@@ -57,12 +58,11 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | nagong100       | https://github.com/LESANF          |
 | nalp            | https://github.com/jonggyun        |
 | ny              | https://github.com/ny0011          |
-| Sarah Kim       | https://github.com/Siromom         |
 | Samsara         | https://github.com/samsara1019     |
+| Sarah Kim       | https://github.com/Siromom         |
 | SH Kim          | https://github.com/feud72          |
 | sihyun          | https://github.com/skim0726        |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
 | 햇반 홍         | https://github.com/Hatvan          |
-| Kimminsu        | https://github.com/alstn2468       |
