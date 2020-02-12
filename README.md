@@ -53,6 +53,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Lim Jungwoon    | https://github.com/jungwoonlim     |
 | LINA            | https://github.com/minjijo         |
 | marcus          | https://github.com/Jogeonsang      |
+| mightytak       | https://github.com/bochipachibuchi |
 | Min Chul Roh    | https://github.com/Peter-Roh       |
 | moondaddi       | https://github.com/mattdamon108    |
 | nagong100       | https://github.com/LESANF          |
@@ -66,4 +67,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
-| 햇반 홍         | https://github.com/Hatvan          |
+| 햇반 홍            | https://github.com/Hatvan          |
