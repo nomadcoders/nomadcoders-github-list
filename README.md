@@ -63,6 +63,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Sarah Kim       | https://github.com/Siromom         |
 | SH Kim          | https://github.com/feud72          |
 | sihyun          | https://github.com/skim0726        |
+| snoop2head      | https://github.com/snoop2head      |
 | Stella Kim      | https://github.com/kim-stella      |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | yongyeon.kim    | https://github.com/yykdev          |
