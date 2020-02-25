@@ -38,6 +38,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Geon Lee        | https://github.com/dl0312          |
 | Geonwoo         | https://github.com/geonwoo-jeong   |
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
+| jenny           | https://github.com/eunjung-jenny   |
 | jerrynim        | https://github.com/jerrynim        |
 | JIMIN           | https://github.com/jiminyun        |
 | JINHO SON       | https://github.com/Trapa-Eureka    |
