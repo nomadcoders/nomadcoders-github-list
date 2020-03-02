@@ -34,7 +34,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | ehddnr          | https://github.com/ehddnr301       |
 | Ele             | https://github.com/ryan3780        |
 | Evan Jin        | https://github.com/seongjoojin     |
-| Flynn           | https://github.com/wphestiraid     |
+| Flynn           | https://github.com/flynnpark       |
 | Geon Lee        | https://github.com/dl0312          |
 | Geonwoo         | https://github.com/geonwoo-jeong   |
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
