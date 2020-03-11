@@ -59,6 +59,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | moondaddi       | https://github.com/mattdamon108    |
 | nagong100       | https://github.com/LESANF          |
 | nalp            | https://github.com/jonggyun        |
+| NoMoreBuild     | https://github.com/NoMoreBuild     |
 | ny              | https://github.com/ny0011          |
 | Samsara         | https://github.com/samsara1019     |
 | Sarah Kim       | https://github.com/Siromom         |
