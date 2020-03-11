@@ -71,3 +71,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | WHYjun          | https://github.com/WHYjun          |
 | 햇반 홍         | https://github.com/Hatvan          |
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
+|버니              |https://github.com/ChobobDev        |
