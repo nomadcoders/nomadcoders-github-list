@@ -67,8 +67,8 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | snoop2head      | https://github.com/snoop2head      |
 | Stella Kim      | https://github.com/kim-stella      |
 | Steveyyy        | https://github.com/hyunjaesung     |
+| Sungkuk Kim     | https://github.com/sungkuk5420     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
+| 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
-| Sungkuk Kim     | https://github.com/sungkuk5420     |
-|버니              |https://github.com/ChobobDev        |
