@@ -23,10 +23,12 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 | Nickname(Slack) | Github                             |
 | --------------- | ---------------------------------- |
+| amkor           | https://github.com/kimhscom        |
 | codeAmeba       | https://github.com/codeAmeba       |
 | corini          | https://github.com/sw-corini       |
 | Dal Yoon        | https://github.com/dalyoon         |
 | Danah           | https://github.com/sweetmilkys     |
+| Daniel Kim      | https://github.com/dkim0827        |
 | dev4us          | https://github.com/dev4us          |
 | devinan         | https://github.com/devinan         |
 | devs            | https://github.com/sooyoungsGithub |
@@ -43,6 +45,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | JIMIN           | https://github.com/jiminyun        |
 | JINHO SON       | https://github.com/Trapa-Eureka    |
 | Jinho1011       | https://github.com/Jinho1011       |
+| Jiwon           | https://github.com/gonnabea        |
 | Jiyeon Hong     | https://github.com/jenniexxi       |
 | Johny Kim       | https://github.com/Johnyworld      |
 | Jongkeun        | https://github.com/Jongkeun        |
@@ -71,6 +74,5 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
-| 버니             | https://github.com/ChobobDev       |
-| 햇반 홍          | https://github.com/Hatvan          |
-| amkor           | https://github.com/kimhscom        | 
+| 버니            | https://github.com/ChobobDev       |
+| 햇반 홍         | https://github.com/Hatvan          |
