@@ -76,3 +76,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | WHYjun          | https://github.com/WHYjun          |
 | 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
+| SkynI           | https://github.com/SkynI25         |
