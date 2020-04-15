@@ -26,6 +26,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | amkor           | https://github.com/kimhscom        |
 | codeAmeba       | https://github.com/codeAmeba       |
 | corini          | https://github.com/sw-corini       |
+| DaehoSon        | https://github.com/Sondho          |
 | Dal Yoon        | https://github.com/dalyoon         |
 | Danah           | https://github.com/sweetmilkys     |
 | Daniel Kim      | https://github.com/dkim0827        |
@@ -80,4 +81,3 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | WHYjun          | https://github.com/WHYjun          |
 | 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
-| DaehoSon        | https://github.com/Sondho          |
