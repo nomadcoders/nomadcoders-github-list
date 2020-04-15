@@ -47,8 +47,10 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Jinho1011       | https://github.com/Jinho1011       |
 | Jiwon           | https://github.com/gonnabea        |
 | Jiyeon Hong     | https://github.com/jenniexxi       |
+| John            | https://github.com/public-afant    |
 | Johny Kim       | https://github.com/Johnyworld      |
 | Jongkeun        | https://github.com/Jongkeun        |
+| joohee          | https://github.com/Joooohee        |
 | Jun-Sik Choi    | https://github.com/JunsikChoi      |
 | Kang Yuchan     | https://github.com/Kang-Yuchan     |
 | Kimminsu        | https://github.com/alstn2468       |
@@ -64,19 +66,17 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | nalp            | https://github.com/jonggyun        |
 | NoMoreBuild     | https://github.com/NoMoreBuild     |
 | ny              | https://github.com/ny0011          |
+| saintluxpgw     | https://github.com/SAINTLUXPGW     |
 | Samsara         | https://github.com/samsara1019     |
 | Sarah Kim       | https://github.com/Siromom         |
 | SH Kim          | https://github.com/feud72          |
 | sihyun          | https://github.com/skim0726        |
+| SkynI           | https://github.com/SkynI25         |
 | snoop2head      | https://github.com/snoop2head      |
 | Stella Kim      | https://github.com/kim-stella      |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
-| 버니             | https://github.com/ChobobDev       |
-| 햇반 홍          | https://github.com/Hatvan          |
-| John            | https://github.com/public-afant    |
-| SkynI           | https://github.com/SkynI25         |
-| saintluxpgw     | https://github.com/SAINTLUXPGW     |
-| joohee          | https://github.com/Joooohee        |
+| 버니            | https://github.com/ChobobDev       |
+| 햇반 홍         | https://github.com/Hatvan          |
