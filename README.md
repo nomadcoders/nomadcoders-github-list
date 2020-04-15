@@ -74,6 +74,8 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
-| 버니            | https://github.com/ChobobDev       |
-| 햇반 홍         | https://github.com/Hatvan          |
-| saintluxpgw        | https://github.com/SAINTLUXPGW         |
+| 버니             | https://github.com/ChobobDev       |
+| 햇반 홍          | https://github.com/Hatvan          |
+| John            | https://github.com/public-afant    |
+| SkynI           | https://github.com/SkynI25         |
+| saintluxpgw     | https://github.com/SAINTLUXPGW     |
