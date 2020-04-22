@@ -69,6 +69,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | saintluxpgw     | https://github.com/SAINTLUXPGW     |
 | Samsara         | https://github.com/samsara1019     |
 | Sarah Kim       | https://github.com/Siromom         |
+| Seongjun Jang   | https://github.com/junnei          |
 | SH Kim          | https://github.com/feud72          |
 | sihyun          | https://github.com/skim0726        |
 | SkynI           | https://github.com/SkynI25         |
