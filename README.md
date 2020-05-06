@@ -40,7 +40,9 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Flynn           | https://github.com/flynnpark       |
 | Geon Lee        | https://github.com/dl0312          |
 | Geonwoo         | https://github.com/geonwoo-jeong   |
+| GJR             | https://github.com/chicori3        |
 | Hyegyeong Han   | https://github.com/Hyegyeong310    |
+| hyunsik         | https://github.com/hyunsikshin     |
 | Jaehyun         | https://github.com/jaehyun-study   |
 | jenny           | https://github.com/eunjung-jenny   |
 | jerrynim        | https://github.com/jerrynim        |
@@ -68,6 +70,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | nalp            | https://github.com/jonggyun        |
 | NoMoreBuild     | https://github.com/NoMoreBuild     |
 | ny              | https://github.com/ny0011          |
+| plusbeauxjours  | https://github.com/plusbeauxjours  |
 | saintluxpgw     | https://github.com/SAINTLUXPGW     |
 | Samsara         | https://github.com/samsara1019     |
 | Sarah Kim       | https://github.com/Siromom         |
@@ -81,6 +84,5 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
-| 버니             | https://github.com/ChobobDev       |
-| 햇반 홍           | https://github.com/Hatvan          |
-| hyunsik         | https://github.com/hyunsikshin          |
+| 버니            | https://github.com/ChobobDev       |
+| 햇반 홍         | https://github.com/Hatvan          |
