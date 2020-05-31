@@ -25,6 +25,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | --------------- | ---------------------------------- |
 | amkor           | https://github.com/kimhscom        |
 | codeAmeba       | https://github.com/codeAmeba       |
+| codingfun       | https://github.com/codingfun02     |
 | corini          | https://github.com/sw-corini       |
 | DaehoSon        | https://github.com/Sondho          |
 | Dal Yoon        | https://github.com/dalyoon         |
