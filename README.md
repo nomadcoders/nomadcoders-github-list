@@ -23,6 +23,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 | Nickname(Slack) | Github                             |
 | --------------- | ---------------------------------- |
+| Aaron Lee       | https://github.com/aaronLab        |
 | amkor           | https://github.com/kimhscom        |
 | codeAmeba       | https://github.com/codeAmeba       |
 | corini          | https://github.com/sw-corini       |
@@ -84,6 +85,5 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
-| 버니             | https://github.com/ChobobDev       |
-| 햇반 홍           | https://github.com/Hatvan          |
-| Aaron Lee       | https://github.com/aaronLab        |
+| 버니            | https://github.com/ChobobDev       |
+| 햇반 홍         | https://github.com/Hatvan          |
