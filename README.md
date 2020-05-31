@@ -23,6 +23,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 | Nickname(Slack) | Github                             |
 | --------------- | ---------------------------------- |
+| Aaron Lee       | https://github.com/aaronLab        |
 | amkor           | https://github.com/kimhscom        |
 | codeAmeba       | https://github.com/codeAmeba       |
 | codingfun       | https://github.com/codingfun02     |
