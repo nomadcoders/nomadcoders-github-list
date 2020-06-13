@@ -74,6 +74,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | NoMoreBuild     | https://github.com/NoMoreBuild     |
 | ny              | https://github.com/ny0011          |
 | plusbeauxjours  | https://github.com/plusbeauxjours  |
+| qpthedev        | https://github.com/qpthedev        |
 | saintluxpgw     | https://github.com/SAINTLUXPGW     |
 | Samsara         | https://github.com/samsara1019     |
 | Sarah Kim       | https://github.com/Siromom         |
