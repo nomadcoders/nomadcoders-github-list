@@ -23,7 +23,6 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 | Nickname(Slack) | Github                             |
 | --------------- | ---------------------------------- |
-| epitoneproject  | https://github.com/epitoneproject  |
 | Aaron Lee       | https://github.com/aaronLab        |
 | amkor           | https://github.com/kimhscom        |
 | codeAmeba       | https://github.com/codeAmeba       |
@@ -40,6 +39,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Dongri          | https://github.com/Shindongri      |
 | ehddnr          | https://github.com/ehddnr301       |
 | Ele             | https://github.com/ryan3780        |
+| epitoneproject  | https://github.com/epitoneproject  |
 | Evan Jin        | https://github.com/seongjoojin     |
 | Flynn           | https://github.com/flynnpark       |
 | Geon Lee        | https://github.com/dl0312          |
@@ -87,8 +87,8 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Stella Kim      | https://github.com/kim-stella      |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
+| teapotsoup     | https://github.com/teapotsoup       |
 | yongyeon.kim    | https://github.com/yykdev          |
 | WHYjun          | https://github.com/WHYjun          |
 | 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
-| teapotsoup     | https://github.com/teapotsoup       |
