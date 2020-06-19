@@ -53,6 +53,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | JIMIN           | https://github.com/jiminyun        |
 | JINHO SON       | https://github.com/Trapa-Eureka    |
 | Jinho1011       | https://github.com/Jinho1011       |
+| Jinsu Kim       | https://github.com/MeluvRose       |
 | Jiwon           | https://github.com/gonnabea        |
 | Jiyeon Hong     | https://github.com/jenniexxi       |
 | John            | https://github.com/public-afant    |
