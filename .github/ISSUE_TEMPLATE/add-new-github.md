@@ -7,6 +7,6 @@ assignees: wphestiraid, DalYoon
 
 ---
 
-**Slack Nickname:** _Epitone_
+**Slack Nickname:** _Nickname Here_
 
 <!-- 되도록이면 Pull request로 부탁드립니다! -->
