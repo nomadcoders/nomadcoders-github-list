@@ -88,8 +88,9 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Stella Kim      | https://github.com/kim-stella      |
 | Steveyyy        | https://github.com/hyunjaesung     |
 | Sungkuk Kim     | https://github.com/sungkuk5420     |
-| teapotsoup     | https://github.com/teapotsoup       |
-| yongyeon.kim    | https://github.com/yykdev          |
+| teapotsoup      | https://github.com/teapotsoup      |
 | WHYjun          | https://github.com/WHYjun          |
+| yeonnnee        | https://github.com/yeonnnee        |
+| yongyeon.kim    | https://github.com/yykdev          |
 | 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
