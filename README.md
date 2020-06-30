@@ -94,3 +94,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | yongyeon.kim    | https://github.com/yykdev          |
 | 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
+| JUNHYUK CHOI    | https://github.com/hshine1226      |
