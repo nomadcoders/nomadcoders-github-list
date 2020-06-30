@@ -61,6 +61,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Jongkeun        | https://github.com/Jongkeun        |
 | joohee          | https://github.com/Joooohee        |
 | Jun-Sik Choi    | https://github.com/JunsikChoi      |
+| JUNHYUK CHOI    | https://github.com/hshine1226      |
 | Kang Yuchan     | https://github.com/Kang-Yuchan     |
 | Kimminsu        | https://github.com/alstn2468       |
 | kioryu          | https://github.com/kioryu          |
@@ -94,4 +95,3 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | yongyeon.kim    | https://github.com/yykdev          |
 | 버니            | https://github.com/ChobobDev       |
 | 햇반 홍         | https://github.com/Hatvan          |
-| JUNHYUK CHOI    | https://github.com/hshine1226      |
