@@ -35,7 +35,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | DanYJ           | [@leye195](https://github.com/leye195)                 |
 | dev4us          | [@dev4us](https://github.com/dev4us)                   |
 | devinan         | [@devinan](https://github.com/devinan)                 |
-| devs            | [@sooyoungsGithub](https://github.com/sooyoungsGithub) |
 | Dongri          | [@Shindongri](https://github.com/Shindongri)           |
 | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | Ele             | [@ryan3780](https://github.com/ryan3780)               |
@@ -81,13 +80,11 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | qpthedev        | [@qpthedev](https://github.com/qpthedev)               |
 | saintluxpgw     | [@SAINTLUXPGW](https://github.com/SAINTLUXPGW)         |
 | Samsara         | [@samsara1019](https://github.com/samsara1019)         |
-| Sarah Kim       | [@Siromom](https://github.com/Siromom)                 |
 | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 | SH Kim          | [@feud72](https://github.com/feud72)                   |
 | sihyun          | [@skim0726](https://github.com/skim0726)               |
 | SkynI           | [@SkynI25](https://github.com/SkynI25)                 |
 | snoop2head      | [@snoop2head](https://github.com/snoop2head)           |
-| Stella Kim      | [@kim](https://github.com/kim-stella)                  |
 | Steveyyy        | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | Sungkuk Kim     | [@sungkuk5420](https://github.com/sungkuk5420)         |
 | teapotsoup      | [@teapotsoup](https://github.com/teapotsoup)           |
@@ -95,4 +92,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | yeonnnee        | [@yeonnnee](https://github.com/yeonnnee)               |
 | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
-| 햇반 홍         | [@Hatvan](https://github.com/Hatvan)                   |
+| 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
