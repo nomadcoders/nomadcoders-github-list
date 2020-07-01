@@ -93,3 +93,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| Tia     | [@tiahwang](https://github.com/tiahwang)           |
