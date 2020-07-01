@@ -15,9 +15,9 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 
 ## Nicolas
 
-| Nickname(Slack)         | Github                            |
-| ----------------------- | --------------------------------- |
-| Nicolás Serrano Arévalo | https://github.com/serranoarevalo |
+| Nickname(Slack)         | Github          |
+| ----------------------- | --------------- |
+| Nicolás Serrano Arévalo | @serranoarevalo |
 
 ## Github List
 
