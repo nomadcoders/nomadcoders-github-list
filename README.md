@@ -27,7 +27,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | amkor           | [@kimhscom](https://github.com/kimhscom)               |
 | codeAmeba       | [@codeAmeba](https://github.com/codeAmeba)             |
 | codingfun       | [@codingfun02](https://github.com/codingfun02)         |
-| corini          | [@sw](https://github.com/sw-corini)                    |
+| corini          | [@sw-corini](https://github.com/sw-corini)             |
 | DaehoSon        | [@Sondho](https://github.com/Sondho)                   |
 | Dal Yoon        | [@dalyoon](https://github.com/dalyoon)                 |
 | Danah           | [@sweetmilkys](https://github.com/sweetmilkys)         |
@@ -42,27 +42,27 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | Flynn           | [@flynnpark](https://github.com/flynnpark)             |
 | Geon Lee        | [@dl0312](https://github.com/dl0312)                   |
-| Geonwoo         | [@geonwoo](https://github.com/geonwoo-jeong)           |
+| Geonwoo         | [@geonwoo-jeong](https://github.com/geonwoo-jeong)     |
 | GJR             | [@chicori3](https://github.com/chicori3)               |
 | Hyegyeong Han   | [@Hyegyeong310](https://github.com/Hyegyeong310)       |
 | hyunsik         | [@hyunsikshin](https://github.com/hyunsikshin)         |
-| Jaehyun         | [@jaehyun](https://github.com/jaehyun-study)           |
-| jenny           | [@eunjung](https://github.com/eunjung-jenny)           |
+| Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
+| jenny           | [@eunjung-jenny](https://github.com/eunjung-jenny)     |
 | jerrynim        | [@jerrynim](https://github.com/jerrynim)               |
 | Jihye Kang      | [@jihye15](https://github.com/jihye15)                 |
 | JIMIN           | [@jiminyun](https://github.com/jiminyun)               |
-| JINHO SON       | [@Trapa](https://github.com/Trapa-Eureka)              |
+| JINHO SON       | [@Trapa-Eureka](https://github.com/Trapa-Eureka)       |
 | Jinho1011       | [@Jinho1011](https://github.com/Jinho1011)             |
 | Jinsu Kim       | [@MeluvRose](https://github.com/MeluvRose)             |
 | Jiwon           | [@gonnabea](https://github.com/gonnabea)               |
 | Jiyeon Hong     | [@jenniexxi](https://github.com/jenniexxi)             |
-| John            | [@public](https://github.com/public-afant)             |
+| John            | [@public-afant](https://github.com/public-afant)       |
 | Johny Kim       | [@Johnyworld](https://github.com/Johnyworld)           |
 | Jongkeun        | [@Jongkeun](https://github.com/Jongkeun)               |
 | joohee          | [@Joooohee](https://github.com/Joooohee)               |
 | Jun-Sik Choi    | [@JunsikChoi](https://github.com/JunsikChoi)           |
 | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
-| Kang Yuchan     | [@Kang](https://github.com/Kang-Yuchan)                |
+| Kang Yuchan     | [@Kang-Yuchan](https://github.com/Kang-Yuchan)         |
 | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
 | kioryu          | [@kioryu](https://github.com/kioryu)                   |
 | Larry           | [@Kunune](https://github.com/Kunune)                   |
@@ -70,7 +70,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | LINA            | [@minjijo](https://github.com/minjijo)                 |
 | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
 | mightytak       | [@bochipachibuchi](https://github.com/bochipachibuchi) |
-| Min Chul Roh    | [@Peter](https://github.com/Peter-Roh)                 |
+| Min Chul Roh    | [@Peter-Roh](https://github.com/Peter-Roh)             |
 | moondaddi       | [@mattdamon108](https://github.com/mattdamon108)       |
 | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 | nalp            | [@jonggyun](https://github.com/jonggyun)               |
