@@ -88,9 +88,9 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Steveyyy        | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | Sungkuk Kim     | [@sungkuk5420](https://github.com/sungkuk5420)         |
 | teapotsoup      | [@teapotsoup](https://github.com/teapotsoup)           |
+| Tia             | [@tiahwang](https://github.com/tiahwang)               |
 | WHYjun          | [@WHYjun](https://github.com/WHYjun)                   |
 | yeonnnee        | [@yeonnnee](https://github.com/yeonnnee)               |
 | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
-| Tia     | [@tiahwang](https://github.com/tiahwang)           |
