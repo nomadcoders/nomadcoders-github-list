@@ -50,6 +50,7 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | Jaehyun         | https://github.com/jaehyun-study   |
 | jenny           | https://github.com/eunjung-jenny   |
 | jerrynim        | https://github.com/jerrynim        |
+| Jihye Kang      | https://github.com/jihye15         |
 | JIMIN           | https://github.com/jiminyun        |
 | JINHO SON       | https://github.com/Trapa-Eureka    |
 | Jinho1011       | https://github.com/Jinho1011       |
