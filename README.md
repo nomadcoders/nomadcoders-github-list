@@ -95,4 +95,4 @@ Github list of [NomadCoders](https://academy.nomadcoders.co)
 | yeonnnee        | https://github.com/yeonnnee        |
 | yongyeon.kim    | https://github.com/yykdev          |
 | 버니            | https://github.com/ChobobDev       |
-| 햇반 홍         | https://github.com/Hatvan          |
+| 햇반 홍         | https://github.com/shhong7757      |
