@@ -93,4 +93,5 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | yeonnnee        | [@yeonnnee](https://github.com/yeonnnee)               |
 | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
+| 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
