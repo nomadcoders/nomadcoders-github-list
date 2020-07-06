@@ -8,7 +8,7 @@ assignees: flynnpark, DalYoon
 
 <!-- 풀리퀘스트시 해당 파일은 수정하지 마세요 -->
 
-**Slack Nickname:** _Nickname Here_
+**Slack Nickname:** _여기에 슬랙 닉네임을 써주세요!_
 
 <!-- 되도록이면 Pull request로 부탁드립니다! -->
 
