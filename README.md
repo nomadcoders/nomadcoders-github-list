@@ -70,6 +70,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Lim Jungwoon    | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | LINA            | [@minjijo](https://github.com/minjijo)                 |
 | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
+| melj93          | [@melj93](https://github.com/melj93)                   |
 | mightytak       | [@bochipachibuchi](https://github.com/bochipachibuchi) |
 | Min Chul Roh    | [@Peter-Roh](https://github.com/Peter-Roh)             |
 | moondaddi       | [@mattdamon108](https://github.com/mattdamon108)       |
