@@ -97,3 +97,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
