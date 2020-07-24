@@ -19,6 +19,15 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | --------------- | ---------------------------------------------------- |
 | 니꼬            | [@serranoarevalo](https://github.com/serranoarevalo) |
 
+## Repository Maintainer
+
+해당 레포지토리를 관리하고 있는 멤버입니다.
+
+| Nickname(Slack) | Github                                     |
+| --------------- | ------------------------------------------ |
+| Flynn           | [@flynnpark](https://github.com/flynnpark) |
+| Dal Yoon        | [@dalyoon](https://github.com/dalyoon)     |
+
 ## Github List
 
 | Nickname(Slack) | Github                                                 |
@@ -29,7 +38,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | codingfun       | [@codingfun02](https://github.com/codingfun02)         |
 | corini          | [@sw-corini](https://github.com/sw-corini)             |
 | DaehoSon        | [@Sondho](https://github.com/Sondho)                   |
-| Dal Yoon        | [@dalyoon](https://github.com/dalyoon)                 |
 | Danah           | [@sweetmilkys](https://github.com/sweetmilkys)         |
 | Daniel Kim      | [@dkim0827](https://github.com/dkim0827)               |
 | DanYJ           | [@leye195](https://github.com/leye195)                 |
@@ -40,14 +48,15 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Ele             | [@ryan3780](https://github.com/ryan3780)               |
 | epitoneproject  | [@epitoneproject](https://github.com/epitoneproject)   |
 | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
-| Flynn           | [@flynnpark](https://github.com/flynnpark)             |
 | Geon Lee        | [@dl0312](https://github.com/dl0312)                   |
 | Geonwoo         | [@geonwoo-jeong](https://github.com/geonwoo-jeong)     |
 | GJR             | [@chicori3](https://github.com/chicori3)               |
 | Hyegyeong Han   | [@Hyegyeong310](https://github.com/Hyegyeong310)       |
 | hyunsik         | [@hyunsikshin](https://github.com/hyunsikshin)         |
+| Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
 | Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
 | jenny           | [@eunjung-jenny](https://github.com/eunjung-jenny)     |
+| JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
 | jerrynim        | [@jerrynim](https://github.com/jerrynim)               |
 | Jihye Kang      | [@jihye15](https://github.com/jihye15)                 |
 | JIMIN           | [@jiminyun](https://github.com/jiminyun)               |
@@ -67,6 +76,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
 | kioryu          | [@kioryu](https://github.com/kioryu)                   |
 | Larry           | [@Kunune](https://github.com/Kunune)                   |
+| LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | Lim Jungwoon    | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | LINA            | [@minjijo](https://github.com/minjijo)                 |
 | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
@@ -97,6 +107,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
-| JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
-| LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
-| Jack Kim    | [@Jack Kim](https://github.com/JeongSikKim88)       
