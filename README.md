@@ -98,4 +98,5 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 | JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
-| Jack Kim    | [@Jack Kim](https://github.com/JeongSikKim88)       |
+| LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
+| Jack Kim    | [@Jack Kim](https://github.com/JeongSikKim88)       
