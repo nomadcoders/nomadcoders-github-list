@@ -99,3 +99,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 | JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
 | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
+| Jack Kim    | [@Jack Kim](https://github.com/JeongSikKim88)       
