@@ -109,3 +109,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           
 | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 | SR              | [@seokrae](https://github.com/seokrae)                 |
+| Lettuce              | [@lsw1164](https://github.com/lsw1164)                 |
