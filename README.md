@@ -77,6 +77,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | kioryu          | [@kioryu](https://github.com/kioryu)                   |
 | Larry           | [@Kunune](https://github.com/Kunune)                   |
 | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
+| Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
 | Lim Jungwoon    | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | LINA            | [@minjijo](https://github.com/minjijo)                 |
 | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
@@ -97,6 +98,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | sihyun          | [@skim0726](https://github.com/skim0726)               |
 | SkynI           | [@SkynI25](https://github.com/SkynI25)                 |
 | snoop2head      | [@snoop2head](https://github.com/snoop2head)           |
+| SR              | [@seokrae](https://github.com/seokrae)                 |
 | Steveyyy        | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | Sungkuk Kim     | [@sungkuk5420](https://github.com/sungkuk5420)         |
 | teapotsoup      | [@teapotsoup](https://github.com/teapotsoup)           |
@@ -106,7 +108,5 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
-| 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           
 | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
-| SR              | [@seokrae](https://github.com/seokrae)                 |
-| Lettuce              | [@lsw1164](https://github.com/lsw1164)                 |
+| 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
