@@ -103,6 +103,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Sungkuk Kim     | [@sungkuk5420](https://github.com/sungkuk5420)         |
 | teapotsoup      | [@teapotsoup](https://github.com/teapotsoup)           |
 | Tia             | [@tiahwang](https://github.com/tiahwang)               |
+| Tim232          | [@tim232](https://github.com/Tim232)                   |
 | WHYjun          | [@WHYjun](https://github.com/WHYjun)                   |
 | yeonnnee        | [@yeonnnee](https://github.com/yeonnnee)               |
 | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
