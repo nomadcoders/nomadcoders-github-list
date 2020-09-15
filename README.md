@@ -75,6 +75,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Kang Yuchan     | [@Kang-Yuchan](https://github.com/Kang-Yuchan)         |
 | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
 | kioryu          | [@kioryu](https://github.com/kioryu)                   |
+| kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
 | Larry           | [@Kunune](https://github.com/Kunune)                   |
 | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
@@ -111,4 +112,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
-| kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
