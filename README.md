@@ -95,6 +95,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | saintluxpgw     | [@SAINTLUXPGW](https://github.com/SAINTLUXPGW)         |
 | Samsara         | [@samsara1019](https://github.com/samsara1019)         |
 | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
+| Seungmin        | [@seungmin-dev](https://github.com/seungmin-dev)       |
 | SH Kim          | [@feud72](https://github.com/feud72)                   |
 | sihyun          | [@skim0726](https://github.com/skim0726)               |
 | SkynI           | [@SkynI25](https://github.com/SkynI25)                 |
