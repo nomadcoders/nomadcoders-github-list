@@ -113,3 +113,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
