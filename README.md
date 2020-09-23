@@ -52,6 +52,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Geonwoo         | [@geonwoo-jeong](https://github.com/geonwoo-jeong)     |
 | GJR             | [@chicori3](https://github.com/chicori3)               |
 | Hyegyeong Han   | [@Hyegyeong310](https://github.com/Hyegyeong310)       |
+| hyunjin         | [@Hyunjin-Jeong](https://github.com/Hyunjin-Jeong)     |
 | hyunsik         | [@hyunsikshin](https://github.com/hyunsikshin)         |
 | Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
 | Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
@@ -114,4 +115,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
-| hyunjin          | [@Hyunjin-Jeong](https://github.com/Hyunjin-Jeong)                 |
