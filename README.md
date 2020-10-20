@@ -55,6 +55,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | hyo814          | [@hyo814](https://github.com/hyo814)                   |
 | hyunjin         | [@Hyunjin-Jeong](https://github.com/Hyunjin-Jeong)     |
 | hyunsik         | [@hyunsikshin](https://github.com/hyunsikshin)         |
+| HwangDongHyun   | [@hwdhyeon](https://github.com/HwDhyeon)               |
 | Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
 | Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
 | jenny           | [@eunjung-jenny](https://github.com/eunjung-jenny)     |
