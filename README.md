@@ -32,6 +32,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 | Nickname(Slack) | Github                                                 |
 | --------------- | ------------------------------------------------------ |
+| 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 | amkor           | [@kimhscom](https://github.com/kimhscom)               |
 | codeAmeba       | [@codeAmeba](https://github.com/codeAmeba)             |
@@ -76,6 +77,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Jun-Sik Choi    | [@JunsikChoi](https://github.com/JunsikChoi)           |
 | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 | Kang Yuchan     | [@Kang-Yuchan](https://github.com/Kang-Yuchan)         |
+| Kim Ki Hwan     | [@luceinaltis](https://github.com/luceinaltis)         |
 | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
 | kioryu          | [@kioryu](https://github.com/kioryu)                   |
 | kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
@@ -116,5 +118,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
-| 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
-| Kim Ki Hwan        | [@luceinaltis](https://github.com/luceinaltis)                 |
