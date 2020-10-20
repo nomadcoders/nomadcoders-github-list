@@ -35,6 +35,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 | amkor           | [@kimhscom](https://github.com/kimhscom)               |
+| cloe001000      | [@cloe001000](https://github.com/cloe001000)           |
 | codeAmeba       | [@codeAmeba](https://github.com/codeAmeba)             |
 | codingfun       | [@codingfun02](https://github.com/codingfun02)         |
 | corini          | [@sw-corini](https://github.com/sw-corini)             |
