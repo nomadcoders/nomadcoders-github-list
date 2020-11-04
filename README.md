@@ -96,6 +96,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 | nalp            | [@jonggyun](https://github.com/jonggyun)               |
 | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
+| Nuung           | [@Nuung](https://github.com/Nuung)                     |
 | ny              | [@ny0011](https://github.com/ny0011)                   |
 | plusbeauxjours  | [@plusbeauxjours](https://github.com/plusbeauxjours)   |
 | qpthedev        | [@qpthedev](https://github.com/qpthedev)               |
