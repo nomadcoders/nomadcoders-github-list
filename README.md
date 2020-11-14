@@ -78,6 +78,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | joohee          | [@Joooohee](https://github.com/Joooohee)               |
 | Jun-Sik Choi    | [@JunsikChoi](https://github.com/JunsikChoi)           |
 | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
+| Kahngjoon Koh   | [@kahngjoonkoh](https://github.com/kahngjoonkoh)       |
 | Kang Yuchan     | [@Kang-Yuchan](https://github.com/Kang-Yuchan)         |
 | Kim Ki Hwan     | [@luceinaltis](https://github.com/luceinaltis)         |
 | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
