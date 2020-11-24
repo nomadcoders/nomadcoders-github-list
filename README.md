@@ -62,6 +62,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
 | Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
 | jenny           | [@eunjung-jenny](https://github.com/eunjung-jenny)     |
+| Jeong YoungHun  | [@jyh7a](https://github.com/jyh7a)     |
 | JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
 | jerrynim        | [@jerrynim](https://github.com/jerrynim)               |
 | Jihye Kang      | [@jihye15](https://github.com/jihye15)                 |
