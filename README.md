@@ -35,6 +35,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 | amkor           | [@kimhscom](https://github.com/kimhscom)               |
+| bamba ba        | [@babamba](https://github.com/babamba)                 |
 | cloe001000      | [@cloe001000](https://github.com/cloe001000)           |
 | codeAmeba       | [@codeAmeba](https://github.com/codeAmeba)             |
 | codingfun       | [@codingfun02](https://github.com/codingfun02)         |
@@ -61,7 +62,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | injoon5         | [@injoon5](https://github.com/injoon5)                 |
 | Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
 | Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
-| Jeong YoungHun  | [@jyh7a](https://github.com/jyh7a)     |
+| Jeong YoungHun  | [@jyh7a](https://github.com/jyh7a)                     |
 | jenny           | [@eunjung-jenny](https://github.com/eunjung-jenny)     |
 | JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
 | jerrynim        | [@jerrynim](https://github.com/jerrynim)               |
@@ -100,6 +101,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | Nuung           | [@Nuung](https://github.com/Nuung)                     |
 | ny              | [@ny0011](https://github.com/ny0011)                   |
+| ombe            | [@ombe1229](https://github.com/ombe1229)               |
 | plusbeauxjours  | [@plusbeauxjours](https://github.com/plusbeauxjours)   |
 | qpthedev        | [@qpthedev](https://github.com/qpthedev)               |
 | Rhange          | [@Rhange](https://github.com/rhange)                   |
