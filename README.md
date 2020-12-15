@@ -62,6 +62,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | injoon5         | [@injoon5](https://github.com/injoon5)                 |
 | Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
 | Jaehyun         | [@jaehyun-study](https://github.com/jaehyun-study)     |
+| jCloud          | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | Jeong YoungHun  | [@jyh7a](https://github.com/jyh7a)                     |
 | jenny           | [@eunjung-jenny](https://github.com/eunjung-jenny)     |
 | JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
@@ -89,7 +90,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Larry           | [@Kunune](https://github.com/Kunune)                   |
 | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
-| Lim Jungwoon    | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | LINA            | [@minjijo](https://github.com/minjijo)                 |
 | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
 | melj93          | [@melj93](https://github.com/melj93)                   |
