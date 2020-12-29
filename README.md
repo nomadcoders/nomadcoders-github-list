@@ -91,6 +91,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
 | LINA            | [@minjijo](https://github.com/minjijo)                 |
+| Madang          | [@mdgarden](https://github.com/mdgarden)               |
 | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
 | melj93          | [@melj93](https://github.com/melj93)                   |
 | mightytak       | [@bochipachibuchi](https://github.com/bochipachibuchi) |
