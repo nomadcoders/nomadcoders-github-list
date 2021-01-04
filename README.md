@@ -40,6 +40,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)    | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [stevy](https://nomadcoders.co/users/stevy)              | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)         | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
+| [내공[100]](https://nomadcoders.co/users/nagong100)      | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)    | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)     | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 |                                                          | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
@@ -106,7 +107,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | mightytak       | [@bochipachibuchi](https://github.com/bochipachibuchi) |
 |                                                          | moondaddi       | [@mattdamon108](https://github.com/mattdamon108)       |
 |                                                          | Nuung           | [@Nuung](https://github.com/Nuung)                     |
-|                                                          | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 |                                                          | nalp            | [@jonggyun](https://github.com/jonggyun)               |
 |                                                          | ny              | [@ny0011](https://github.com/ny0011)                   |
 |                                                          | ombe            | [@ombe1229](https://github.com/ombe1229)               |
