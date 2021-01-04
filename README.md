@@ -87,6 +87,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | Kim Ki Hwan     | [@luceinaltis](https://github.com/luceinaltis)         |
 |                                                       | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
 |                                                       | kioryu          | [@kioryu](https://github.com/kioryu)                   |
+| [daveg7lee](https://nomadcoders.co/users/daveg7lee)   | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 |                                                       | kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
 |                                                       | Larry           | [@Kunune](https://github.com/Kunune)                   |
 |                                                       | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
