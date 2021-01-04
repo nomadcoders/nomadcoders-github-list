@@ -34,6 +34,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | -------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [daveg7lee](https://nomadcoders.co/users/daveg7lee)      | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)            | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
+| [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
@@ -62,7 +63,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | Geon Lee        | [@dl0312](https://github.com/dl0312)                   |
 |                                                          | Geonwoo         | [@geonwoo-jeong](https://github.com/geonwoo-jeong)     |
 |                                                          | GJR             | [@chicori3](https://github.com/chicori3)               |
-| [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 |                                                          | Hyegyeong Han   | [@Hyegyeong310](https://github.com/Hyegyeong310)       |
 |                                                          | HwangDongHyun   | [@hwdhyeon](https://github.com/HwDhyeon)               |
 |                                                          | hyo814          | [@hyo814](https://github.com/hyo814)                   |
