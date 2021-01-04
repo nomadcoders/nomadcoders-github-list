@@ -15,7 +15,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 ## Nicolas
 
-| Username(NomadCoders)                                                  | Nickname(Slack) | Github                                               |
+| Profile(NomadCoders)                                                   | Nickname(Slack) | Github                                               |
 | ---------------------------------------------------------------------- | --------------- | ---------------------------------------------------- |
 | [Nicolás Serrano Arévalo](https://nomadcoders.co/users/serranoarevalo) | 니꼬            | [@serranoarevalo](https://github.com/serranoarevalo) |
 
@@ -23,14 +23,14 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 해당 레포지토리를 관리하고 있는 멤버입니다.
 
-| Username(NomadCoders)                                | Nickname(Slack) | Github                                     |
+| Profile(NomadCoders)                                 | Nickname(Slack) | Github                                     |
 | ---------------------------------------------------- | --------------- | ------------------------------------------ |
 | [Dal Yoon](https://nomadcoders.co/users/yeodal.yoon) | Dal Yoon        | [@dalyoon](https://github.com/dalyoon)     |
 | [Flynn](https://nomadcoders.co/users/flynnpark)      | Flynn           | [@flynnpark](https://github.com/flynnpark) |
 
 ## Github List
 
-| Username(NomadCoders)                                 | Nickname(Slack) | Github                                                 |
+| Profile(NomadCoders)                                  | Nickname(Slack) | Github                                                 |
 | ----------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234) | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 |                                                       | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
