@@ -18,9 +18,9 @@ assignees: flynnpark, DalYoon
 **Slack Nickname:** 니꼬
 -->
 
-**Ex-information:** _이전 정보 닉네임 또는 유저네임_
+**Ex-information:** nagong100
 
-**NomadCoders Profile:** _노마드코더 사이트 프로필 URL (ex. https://nomadcoders.co/users/serranoarevalo)_
-**Slack Nickname:** _노마드코더 슬랙 닉네임_
+**NomadCoders Profile:** https://nomadcoders.co/users/nagong100
+**Slack Nickname:** 내공[100]
 
 <!-- 되도록이면 Pull request로 부탁드립니다! -->
