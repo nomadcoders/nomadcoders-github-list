@@ -32,6 +32,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                     | Nickname(Slack) | Github                                                 |
 | -------------------------------------------------------- | --------------- | ------------------------------------------------------ |
+| [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [daveg7lee](https://nomadcoders.co/users/daveg7lee)      | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)            | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
