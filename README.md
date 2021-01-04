@@ -127,7 +127,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 |                                                       | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 |                                                       | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
-|                                                       | 이민찬          | [@ShigatsuEl](https://githuc.com/ShigatsuEl)           |
+| [이민찬](https://nomadcoders.co/users/shigatsu970704) | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 |                                                       | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                       | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 |                                                       | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
