@@ -32,9 +32,11 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                  | Nickname(Slack) | Github                                                 |
 | ----------------------------------------------------- | --------------- | ------------------------------------------------------ |
+| [daveg7lee](https://nomadcoders.co/users/daveg7lee)   | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)         | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234) | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [stevy](https://nomadcoders.co/users/stevy)           | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
+| [이민찬](https://nomadcoders.co/users/shigatsu970704) | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 |                                                       | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                       | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                       | amkor           | [@kimhscom](https://github.com/kimhscom)               |
@@ -87,7 +89,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | Kim Ki Hwan     | [@luceinaltis](https://github.com/luceinaltis)         |
 |                                                       | Kimminsu        | [@alstn2468](https://github.com/alstn2468)             |
 |                                                       | kioryu          | [@kioryu](https://github.com/kioryu)                   |
-| [daveg7lee](https://nomadcoders.co/users/daveg7lee)   | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 |                                                       | kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
 |                                                       | Larry           | [@Kunune](https://github.com/Kunune)                   |
 |                                                       | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
@@ -128,7 +129,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
 |                                                       | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
 |                                                       | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
-| [이민찬](https://nomadcoders.co/users/shigatsu970704) | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 |                                                       | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                       | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 |                                                       | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
