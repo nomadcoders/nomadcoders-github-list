@@ -48,7 +48,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | dev4us          | [@dev4us](https://github.com/dev4us)                   |
 |                                                       | devinan         | [@devinan](https://github.com/devinan)                 |
 |                                                       | Dongri          | [@Shindongri](https://github.com/Shindongri)           |
-|                                                       | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
+| [ehddnr](https://nomadcoders.co/users/ehddnr)         | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 |                                                       | Ele             | [@ryan3780](https://github.com/ryan3780)               |
 |                                                       | epitoneproject  | [@epitoneproject](https://github.com/epitoneproject)   |
 |                                                       | Geon Lee        | [@dl0312](https://github.com/dl0312)                   |
