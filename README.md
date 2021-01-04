@@ -32,6 +32,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                  | Nickname(Slack) | Github                                                 |
 | ----------------------------------------------------- | --------------- | ------------------------------------------------------ |
+| [ehddnr](https://nomadcoders.co/users/ehddnr)         | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234) | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 |                                                       | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                       | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
@@ -48,7 +49,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | dev4us          | [@dev4us](https://github.com/dev4us)                   |
 |                                                       | devinan         | [@devinan](https://github.com/devinan)                 |
 |                                                       | Dongri          | [@Shindongri](https://github.com/Shindongri)           |
-| [ehddnr](https://nomadcoders.co/users/ehddnr)         | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 |                                                       | Ele             | [@ryan3780](https://github.com/ryan3780)               |
 |                                                       | epitoneproject  | [@epitoneproject](https://github.com/epitoneproject)   |
 |                                                       | Geon Lee        | [@dl0312](https://github.com/dl0312)                   |
