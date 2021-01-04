@@ -51,6 +51,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | Dongri          | [@Shindongri](https://github.com/Shindongri)           |
 |                                                       | Ele             | [@ryan3780](https://github.com/ryan3780)               |
 |                                                       | epitoneproject  | [@epitoneproject](https://github.com/epitoneproject)   |
+|                                                       | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
 |                                                       | Geon Lee        | [@dl0312](https://github.com/dl0312)                   |
 |                                                       | Geonwoo         | [@geonwoo-jeong](https://github.com/geonwoo-jeong)     |
 |                                                       | GJR             | [@chicori3](https://github.com/chicori3)               |
