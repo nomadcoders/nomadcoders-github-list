@@ -39,6 +39,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)    | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [stevy](https://nomadcoders.co/users/stevy)              | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
+| [Taeroo](https://nomadcoders.co/users/taeroo612)         | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)    | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)     | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 |                                                          | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
