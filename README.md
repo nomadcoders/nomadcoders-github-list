@@ -32,9 +32,10 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                    | Nickname(Slack) | Github                                                 |
 | ------------------------------------------------------- | --------------- | ------------------------------------------------------ |
+| [NoMoreBuild](https://nomadcoders.co/users/nomorebuild) | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
+| [Seongjoojin](https://nomadcoders.co/users/qpyou1234)   | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [daveg7lee](https://nomadcoders.co/users/daveg7lee)     | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)           | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
-| [Seongjoojin](https://nomadcoders.co/users/qpyou1234)   | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [stevy](https://nomadcoders.co/users/stevy)             | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)   | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 |                                                         | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
@@ -102,7 +103,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                         | moondaddi       | [@mattdamon108](https://github.com/mattdamon108)       |
 |                                                         | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 |                                                         | nalp            | [@jonggyun](https://github.com/jonggyun)               |
-| [NoMoreBuild](https://nomadcoders.co/users/nomorebuild) | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 |                                                         | Nuung           | [@Nuung](https://github.com/Nuung)                     |
 |                                                         | ny              | [@ny0011](https://github.com/ny0011)                   |
 |                                                         | ombe            | [@ombe1229](https://github.com/ombe1229)               |
