@@ -34,6 +34,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | ----------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)         | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234) | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
+| [stevy](https://nomadcoders.co/users/stevy)           | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 |                                                       | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                       | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                       | amkor           | [@kimhscom](https://github.com/kimhscom)               |
@@ -116,7 +117,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | SkynI           | [@SkynI25](https://github.com/SkynI25)                 |
 |                                                       | snoop2head      | [@snoop2head](https://github.com/snoop2head)           |
 |                                                       | SR              | [@seokrae](https://github.com/seokrae)                 |
-|                                                       | Steveyyy        | [@hyunjaesung](https://github.com/hyunjaesung)         |
 |                                                       | Sungkuk Kim     | [@sungkuk5420](https://github.com/sungkuk5420)         |
 |                                                       | teapotsoup      | [@teapotsoup](https://github.com/teapotsoup)           |
 |                                                       | Tia             | [@tiahwang](https://github.com/tiahwang)               |
