@@ -33,15 +33,17 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Profile(NomadCoders)                                     | Nickname(Slack) | Github                                                 |
 | -------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [daveg7lee](https://nomadcoders.co/users/daveg7lee)      | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
+| [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01) | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)            | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
+| [MADANG](https://nomadcoders.co/users/madanggarden)      | Madang          | [@mdgarden](https://github.com/mdgarden)               |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
+| [oreoTaste](https://nomadcoders.co/users/oreotaste)      | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)             |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)    | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [stevy](https://nomadcoders.co/users/stevy)              | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)         | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
-| [oreoTaste](https://nomadcoders.co/users/oreotaste)      | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)           |
 | [내공[100]](https://nomadcoders.co/users/nagong100)      | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)    | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)     | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
@@ -102,7 +104,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 |                                                          | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
 |                                                          | LINA            | [@minjijo](https://github.com/minjijo)                 |
-|                                                          | Madang          | [@mdgarden](https://github.com/mdgarden)               |
 |                                                          | Min Chul Roh    | [@Peter-Roh](https://github.com/Peter-Roh)             |
 |                                                          | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
 |                                                          | melj93          | [@melj93](https://github.com/melj93)                   |
