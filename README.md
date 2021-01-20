@@ -72,6 +72,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | HwangDongHyun   | [@hwdhyeon](https://github.com/HwDhyeon)               |
 |                                                          | hyo814          | [@hyo814](https://github.com/hyo814)                   |
 |                                                          | hyunjin         | [@Hyunjin-Jeong](https://github.com/Hyunjin-Jeong)     |
+|                                                          | HyunSang Park   | [@dev-hyunsang](https://github.com/dev-hyunsang)       |
 |                                                          | hyunsik         | [@hyunsikshin](https://github.com/hyunsikshin)         |
 |                                                          | injoon5         | [@injoon5](https://github.com/injoon5)                 |
 |                                                          | Jack Kim        | [@JeongSikKim88](https://github.com/JeongSikKim88)     |
@@ -139,4 +140,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                          | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                          | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
-|                                                          | HyunSang Park   | [@dev-hyunsang](https://github.com/dev-hyunsang)   |
