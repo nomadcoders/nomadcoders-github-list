@@ -41,6 +41,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
 | [MADANG](https://nomadcoders.co/users/madanggarden)      | Madang          | [@mdgarden](https://github.com/mdgarden)               |
+| [Marco Kang](https://nomadcoders.co/users/kmnkit)        | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                     |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
 | [oreoTaste](https://nomadcoders.co/users/oreotaste)      | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)             |
@@ -142,4 +143,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | 음흠             | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                          | 정지용            | [@wscrg](https://github.com/wscrg)                     |
 |                                                          | 코딩하는 펭귄       | [@coodingpenguin](https://github.com/coodingpenguin)   |
-| [Marco Kang](https://nomadcoders.co/users/kmnkit)        | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                     |
