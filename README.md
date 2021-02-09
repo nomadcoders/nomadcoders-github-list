@@ -40,6 +40,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [ehddnr](https://nomadcoders.co/users/ehddnr)            | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
+| [Jessica Oh](https://nomadcoders.co/users/joh)           | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
 | [MADANG](https://nomadcoders.co/users/madanggarden)      | Madang          | [@mdgarden](https://github.com/mdgarden)               |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
@@ -84,7 +85,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | Jeong YoungHun  | [@jyh7a](https://github.com/jyh7a)                     |
 |                                                          | JeongJaeSoon    | [@JeongJaeSoon](https://github.com/JeongJaeSoon)       |
 |                                                          | jerrynim        | [@jerrynim](https://github.com/jerrynim)               |
-|                                                          | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
 |                                                          | Jihye Kang      | [@jihye15](https://github.com/jihye15)                 |
 |                                                          | JIMIN           | [@jiminyun](https://github.com/jiminyun)               |
 |                                                          | JINHO SON       | [@Trapa-Eureka](https://github.com/Trapa-Eureka)       |
