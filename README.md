@@ -52,6 +52,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [내공[100]](https://nomadcoders.co/users/nagong100)       | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)     | 이민찬            | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)      | 햇반 홍           | [@shhong7757](https://github.com/shhong7757)           |
+| [LEE Seungje](https://nomadcoders.co/users/sonyun24)     | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 |                                                          | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                          | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                          | amkor           | [@kimhscom](https://github.com/kimhscom)               |
@@ -107,7 +108,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | kioryu          | [@kioryu](https://github.com/kioryu)                   |
 |                                                          | kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
 |                                                          | Larry           | [@Kunune](https://github.com/Kunune)                   |
-|                                                          | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 |                                                          | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
 |                                                          | LINA            | [@minjijo](https://github.com/minjijo)                 |
 |                                                          | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
