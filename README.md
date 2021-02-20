@@ -64,6 +64,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | Danah           | [@sweetmilkys](https://github.com/sweetmilkys)         |
 |                                                          | Daniel Kim      | [@dkim0827](https://github.com/dkim0827)               |
 |                                                          | DanYJ           | [@leye195](https://github.com/leye195)                 |
+|                                                          | demin           | [@michelle1223](https://github.com/michelle1223)       |
 |                                                          | dev4us          | [@dev4us](https://github.com/dev4us)                   |
 |                                                          | devinan         | [@devinan](https://github.com/devinan)                 |
 |                                                          | Dongri          | [@Shindongri](https://github.com/Shindongri)           |
@@ -144,4 +145,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | 음흠             | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                          | 정지용            | [@wscrg](https://github.com/wscrg)                     |
 |                                                          | 코딩하는 펭귄       | [@coodingpenguin](https://github.com/coodingpenguin)   |
-|                                                          | demin           | [@michelle1223](https://github.com/michelle1223)       |
