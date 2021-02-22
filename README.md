@@ -41,6 +41,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
 | [Jessica Oh](https://nomadcoders.co/users/joh)           | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
+| [LEE Seungje](https://nomadcoders.co/users/sonyun24)     | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)      | Madang          | [@mdgarden](https://github.com/mdgarden)               |
 | [Marco Kang](https://nomadcoders.co/users/kmnkit)        | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                     |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
@@ -108,7 +109,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | kioryu          | [@kioryu](https://github.com/kioryu)                   |
 |                                                          | kwonmory        | [@kwonmory](https://github.com/kwonmory)               |
 |                                                          | Larry           | [@Kunune](https://github.com/Kunune)                   |
-|                                                          | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 |                                                          | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
 |                                                          | LINA            | [@minjijo](https://github.com/minjijo)                 |
 |                                                          | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
