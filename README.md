@@ -43,16 +43,17 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Jessica Oh](https://nomadcoders.co/users/joh)           | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
 | [LEE Seungje](https://nomadcoders.co/users/sonyun24)     | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)      | Madang          | [@mdgarden](https://github.com/mdgarden)               |
-| [Marco Kang](https://nomadcoders.co/users/kmnkit)        | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                     |
+| [Marco Kang](https://nomadcoders.co/users/kmnkit)        | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                   |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
 | [oreoTaste](https://nomadcoders.co/users/oreotaste)      | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)             |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)    | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
 | [stevy](https://nomadcoders.co/users/stevy)              | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)         | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
-| [내공[100]](https://nomadcoders.co/users/nagong100)       | nagong100       | [@LESANF](https://github.com/LESANF)                   |
-| [이민찬](https://nomadcoders.co/users/shigatsu970704)     | 이민찬            | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
-| [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)      | 햇반 홍           | [@shhong7757](https://github.com/shhong7757)           |
+| [내공[100]](https://nomadcoders.co/users/nagong100)      | nagong100       | [@LESANF](https://github.com/LESANF)                   |
+| [용용](https://nomadcoders.co/users/yongyong)            | 용용            | [@Yongveloper](https://github.com/Yongveloper)         |
+| [이민찬](https://nomadcoders.co/users/shigatsu970704)    | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
+| [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)     | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 |                                                          | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                          | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                          | amkor           | [@kimhscom](https://github.com/kimhscom)               |
@@ -141,7 +142,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | woochanleee     | [@woochanleee](https://github.com/woochanleee)         |
 |                                                          | yeonnnee        | [@yeonnnee](https://github.com/yeonnnee)               |
 |                                                          | yongyeon.kim    | [@yykdev](https://github.com/yykdev)                   |
-|                                                          | 버니             | [@ChobobDev](https://github.com/ChobobDev)             |
-|                                                          | 음흠             | [sangwoo-98](https://github.com/sangwoo-98)            |
-|                                                          | 정지용            | [@wscrg](https://github.com/wscrg)                     |
-|                                                          | 코딩하는 펭귄       | [@coodingpenguin](https://github.com/coodingpenguin)   |
+|                                                          | 버니            | [@ChobobDev](https://github.com/ChobobDev)             |
+|                                                          | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
+|                                                          | 정지용          | [@wscrg](https://github.com/wscrg)                     |
+|                                                          | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
