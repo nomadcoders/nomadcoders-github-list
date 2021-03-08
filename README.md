@@ -44,6 +44,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Jessica Oh](https://nomadcoders.co/users/joh)           | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
 | [LEE Seungje](https://nomadcoders.co/users/sonyun24)     | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)      | Madang          | [@mdgarden](https://github.com/mdgarden)               |
+| [Gunwoo](https://nomadcoders.co/users/gunwoo.dev)        | Martin          | [@gunwooko](https://github.com/gunwooko)               |
 | [Marco Kang](https://nomadcoders.co/users/kmnkit)        | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                   |
 | [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)  | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha) | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
@@ -114,7 +115,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | Lettuce         | [@lsw1164](https://github.com/lsw1164)                 |
 |                                                          | LINA            | [@minjijo](https://github.com/minjijo)                 |
 |                                                          | marcus          | [@Jogeonsang](https://github.com/Jogeonsang)           |
-|                                                          | Martin          | [@gunwooko](https://github.com/gunwooko)               |
 |                                                          | melj93          | [@melj93](https://github.com/melj93)                   |
 |                                                          | mightytak       | [@bochipachibuchi](https://github.com/bochipachibuchi) |
 |                                                          | Min Chul Roh    | [@Peter-Roh](https://github.com/Peter-Roh)             |
