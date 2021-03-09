@@ -53,6 +53,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [내공[100]](https://nomadcoders.co/users/nagong100)      | nagong100       | [@LESANF](https://github.com/LESANF)                   |
 | [용용](https://nomadcoders.co/users/yongyong)            | 용용            | [@Yongveloper](https://github.com/Yongveloper)         |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)    | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
+| [Jinsu Ha](https://nomadcoders.co/users/korean_js)      | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
 | [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)     | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 |                                                          | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                          | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
@@ -146,4 +147,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                          | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                          | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
-|                                                          | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
+
