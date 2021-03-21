@@ -35,6 +35,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Profile(NomadCoders)                                     | Nickname(Slack) | Github                                                 |
 | -------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [bandor](https://nomadcoders.co/users/bandor)            | bandor          | [@Keeper991](https://github.com/Keeper991)             |
+| [bugod](https://nomadcoders.co/users/bugod)              | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
 | [daveg7lee](https://nomadcoders.co/users/daveg7lee)      | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01) | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)            | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
