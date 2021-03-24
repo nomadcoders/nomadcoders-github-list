@@ -39,6 +39,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01) | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)            | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)    | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
+| [hobbyhyoin](https://nomadcoders.co/users/hobbyhyoin)    | hy01n           | [@hy01n](https://github.com/hy01n)                     |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)          | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
 | [JD](https://nomadcoders.co/users/sanham1992)            | JD              | [@SHHam12](https://github.com/SHHam12)                 |
 | [Jessica Oh](https://nomadcoders.co/users/joh)           | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
@@ -148,4 +149,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                          | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                          | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                          | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
-|                                                          | hy01n         | [@hy01n](https://github.com/hy01n)                      |
