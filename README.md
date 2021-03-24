@@ -40,6 +40,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
 | [ehddnr](https://nomadcoders.co/users/ehddnr)               | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
+| [hobbyhyoin](https://nomadcoders.co/users/hobbyhyoin)       | hy01n           | [@hy01n](https://github.com/hy01n)                     |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)             | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
 | [JD](https://nomadcoders.co/users/sanham1992)               | JD              | [@SHHam12](https://github.com/SHHam12)                 |
 | [Jeong](https://nomadcoders.co/users/bugod)                 | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
