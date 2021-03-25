@@ -42,7 +42,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [hobbyhyoin](https://nomadcoders.co/users/hobbyhyoin)       | hy01n           | [@hy01n](https://github.com/hy01n)                     |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)             | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
-| [jCloud](https://nomadcoders.co/users/wypo23)               | jCloud          | [@jungwoonlim](https://github.com/jungwoonlim)         |
+| [Lim jungwoon](https://nomadcoders.co/users/wypo23)         | jCloud          | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | [JD](https://nomadcoders.co/users/sanham1992)               | JD              | [@SHHam12](https://github.com/SHHam12)                 |
 | [Jeong](https://nomadcoders.co/users/bugod)                 | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
 | [Jessica Oh](https://nomadcoders.co/users/joh)              | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
