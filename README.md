@@ -35,38 +35,36 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Profile(NomadCoders)                                        | Nickname(Slack) | Github                                                 |
 | ----------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [bandor](https://nomadcoders.co/users/bandor)               | bandor          | [@Keeper991](https://github.com/Keeper991)             |
-| [daveg7lee](https://nomadcoders.co/users/daveg7lee)         | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
-| [dhddldid](https://nomadcoders.co/users/dhddldid04)         | dhddldid        | [@dhddldid](https://github.com/dhddldid)               |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
-| [ehddnr](https://nomadcoders.co/users/ehddnr)               | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
-| [hobbyhyoin](https://nomadcoders.co/users/hobbyhyoin)       | hy01n           | [@hy01n](https://github.com/hy01n)                     |
+| [hy01n](https://nomadcoders.co/users/hobbyhyoin)            | hy01n           | [@hy01n](https://github.com/hy01n)                     |
+| [Hyunjae Sung](https://nomadcoders.co/users/stevy)          | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
+| [HyunJunYong](https://nomadcoders.co/users/yongyong)        | 용용            | [@Yongveloper](https://github.com/Yongveloper)         |
+| [JAE SUNG CHOI](https://nomadcoders.co/users/dhddldid04)    | dhddldid        | [@dhddldid](https://github.com/dhddldid)               |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)             | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
 | [JD](https://nomadcoders.co/users/sanham1992)               | JD              | [@SHHam12](https://github.com/SHHam12)                 |
 | [Jeong](https://nomadcoders.co/users/bugod)                 | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
 | [Jessica Oh](https://nomadcoders.co/users/joh)              | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
+| [ki hyun lee](https://nomadcoders.co/users/daveg7lee)       | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [LEE Seungje](https://nomadcoders.co/users/sonyun24)        | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)         | Madang          | [@mdgarden](https://github.com/mdgarden)               |
 | [Gunwoo](https://nomadcoders.co/users/gunwoo.dev)           | Martin          | [@gunwooko](https://github.com/gunwooko)               |
 | [Lim jungwoon](https://nomadcoders.co/users/wypo23)         | jCloud          | [@jungwoonlim](https://github.com/jungwoonlim)         |
 | [Marco Kang](https://nomadcoders.co/users/kmnkit)           | Marzo Go        | [@kmnkit](https://github.com/kmnkit)                   |
-| [NoMoreBuild](https://nomadcoders.co/users/nomorebuild)     | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [Oh Sanghyeon](https://nomadcoders.co/users/obangsuosha)    | FLCL            | [@obangsuosha](https://github.com/obangsuosha)         |
 | [oreoTaste](https://nomadcoders.co/users/oreotaste)         | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)             |
 | [Seong Hoon Wee](https://nomadcoders.co/users/mrgravity817) | 위성훈          | [@mrgravity817](https://github.com/mrgravity817)       |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)       | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
-| [stevy](https://nomadcoders.co/users/stevy)                 | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
+| [Woolim Lee](https://nomadcoders.co/users/nomorebuild)      | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [내공[100]](https://nomadcoders.co/users/nagong100)         | nagong100       | [@LESANF](https://github.com/LESANF)                   |
-| [용용](https://nomadcoders.co/users/yongyong)               | 용용            | [@Yongveloper](https://github.com/Yongveloper)         |
+| [이동욱](https://nomadcoders.co/users/ehddnr)               | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
-| [햇반 홍](https://nomadcoders.co/users/ghdtkdgur123)        | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
 |                                                             | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                             | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
-|                                                             | amkor           | [@kimhscom](https://github.com/kimhscom)               |
 |                                                             | bamba ba        | [@babamba](https://github.com/babamba)                 |
-|                                                             | cloe001000      | [@cloe001000](https://github.com/cloe001000)           |
 |                                                             | codeAmeba       | [@codeAmeba](https://github.com/codeAmeba)             |
 |                                                             | codingfun       | [@codingfun02](https://github.com/codingfun02)         |
 |                                                             | corini          | [@sw-corini](https://github.com/sw-corini)             |
