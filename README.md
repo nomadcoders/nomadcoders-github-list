@@ -62,6 +62,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| [JUNHYUK CHOI](https://nomadcoders.co/users/hshine1226)     | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 |                                                             | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                             | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                             | bamba ba        | [@babamba](https://github.com/babamba)                 |
@@ -107,7 +108,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | Jongkeun        | [@Jongkeun](https://github.com/Jongkeun)               |
 |                                                             | joohee          | [@Joooohee](https://github.com/Joooohee)               |
 |                                                             | Jun-Sik Choi    | [@JunsikChoi](https://github.com/JunsikChoi)           |
-|                                                             | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 |                                                             | Kahngjoon Koh   | [@kahngjoonkoh](https://github.com/kahngjoonkoh)       |
 |                                                             | Kang Yuchan     | [@Kang-Yuchan](https://github.com/Kang-Yuchan)         |
 |                                                             | Kim Ki Hwan     | [@luceinaltis](https://github.com/luceinaltis)         |
