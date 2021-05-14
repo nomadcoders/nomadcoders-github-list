@@ -45,6 +45,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [JD](https://nomadcoders.co/users/sanham1992)               | JD              | [@SHHam12](https://github.com/SHHam12)                 |
 | [Jeong](https://nomadcoders.co/users/bugod)                 | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
 | [Jessica Oh](https://nomadcoders.co/users/joh)              | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
+| [JUNHYUK CHOI](https://nomadcoders.co/users/hshine1226)     | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 | [ki hyun lee](https://nomadcoders.co/users/daveg7lee)       | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [LEE Seungje](https://nomadcoders.co/users/sonyun24)        | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)         | Madang          | [@mdgarden](https://github.com/mdgarden)               |
@@ -62,7 +63,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
-| [JUNHYUK CHOI](https://nomadcoders.co/users/hshine1226)     | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 |                                                             | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                             | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                             | bamba ba        | [@babamba](https://github.com/babamba)                 |
