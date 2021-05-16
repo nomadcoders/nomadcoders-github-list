@@ -46,6 +46,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [JD](https://nomadcoders.co/users/sanham1992)               | JD              | [@SHHam12](https://github.com/SHHam12)                 |
 | [Jeong](https://nomadcoders.co/users/bugod)                 | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
 | [Jessica Oh](https://nomadcoders.co/users/joh)              | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
+| [JUNHYUK CHOI](https://nomadcoders.co/users/hshine1226)     | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 | [ki hyun lee](https://nomadcoders.co/users/daveg7lee)       | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [LEE Seungje](https://nomadcoders.co/users/sonyun24)        | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)         | Madang          | [@mdgarden](https://github.com/mdgarden)               |
@@ -108,7 +109,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | Jongkeun        | [@Jongkeun](https://github.com/Jongkeun)               |
 |                                                             | joohee          | [@Joooohee](https://github.com/Joooohee)               |
 |                                                             | Jun-Sik Choi    | [@JunsikChoi](https://github.com/JunsikChoi)           |
-|                                                             | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
 |                                                             | Kahngjoon Koh   | [@kahngjoonkoh](https://github.com/kahngjoonkoh)       |
 |                                                             | Kang Yuchan     | [@Kang-Yuchan](https://github.com/Kang-Yuchan)         |
 |                                                             | Kim Ki Hwan     | [@luceinaltis](https://github.com/luceinaltis)         |
