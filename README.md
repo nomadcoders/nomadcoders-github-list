@@ -35,6 +35,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Profile(NomadCoders)                                        | Nickname(Slack) | Github                                                 |
 | ----------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [bandor](https://nomadcoders.co/users/bandor)               | bandor          | [@Keeper991](https://github.com/Keeper991)             |
+| [comographer](https://nomadcoders.co/users/kimgeunmo)       | Comographer     | [@comographer](https://github.com/comographer)         |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [hy01n](https://nomadcoders.co/users/hobbyhyoin)            | hy01n           | [@hy01n](https://github.com/hy01n)                     |
