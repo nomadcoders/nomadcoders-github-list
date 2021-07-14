@@ -65,6 +65,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 |                                                             | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                             | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                             | bamba ba        | [@babamba](https://github.com/babamba)                 |
@@ -134,7 +135,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | RunFridge       | [@hwhang0917](https://github.com/hwhang0917)           |
 |                                                             | saintluxpgw     | [@SAINTLUXPGW](https://github.com/SAINTLUXPGW)         |
 |                                                             | Samsara         | [@samsara1019](https://github.com/samsara1019)         |
-|                                                             | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 |                                                             | Seungmin        | [@seungmin-dev](https://github.com/seungmin-dev)       |
 |                                                             | SH Kim          | [@feud72](https://github.com/feud72)                   |
 |                                                             | sihyun          | [@skim0726](https://github.com/skim0726)               |
