@@ -58,6 +58,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [oreoTaste](https://nomadcoders.co/users/oreotaste)         | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)             |
 | [Seong Hoon Wee](https://nomadcoders.co/users/mrgravity817) | 위성훈          | [@mrgravity817](https://github.com/mrgravity817)       |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)       | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
+| [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
 | [Woolim Lee](https://nomadcoders.co/users/nomorebuild)      | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [내공[100]](https://nomadcoders.co/users/nagong100)         | nagong100       | [@LESANF](https://github.com/LESANF)                   |
@@ -65,7 +66,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
-| [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 |                                                             | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                             | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                             | bamba ba        | [@babamba](https://github.com/babamba)                 |
