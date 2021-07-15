@@ -58,6 +58,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [oreoTaste](https://nomadcoders.co/users/oreotaste)         | oreoTaste       | [@oreoTaste](https://github.com/oreoTaste)             |
 | [Seong Hoon Wee](https://nomadcoders.co/users/mrgravity817) | 위성훈          | [@mrgravity817](https://github.com/mrgravity817)       |
 | [Seongjoojin](https://nomadcoders.co/users/qpyou1234)       | Evan Jin        | [@seongjoojin](https://github.com/seongjoojin)         |
+| [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
 | [Woolim Lee](https://nomadcoders.co/users/nomorebuild)      | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
 | [내공[100]](https://nomadcoders.co/users/nagong100)         | nagong100       | [@LESANF](https://github.com/LESANF)                   |
@@ -134,7 +135,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | RunFridge       | [@hwhang0917](https://github.com/hwhang0917)           |
 |                                                             | saintluxpgw     | [@SAINTLUXPGW](https://github.com/SAINTLUXPGW)         |
 |                                                             | Samsara         | [@samsara1019](https://github.com/samsara1019)         |
-|                                                             | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 |                                                             | Seungmin        | [@seungmin-dev](https://github.com/seungmin-dev)       |
 |                                                             | SH Kim          | [@feud72](https://github.com/feud72)                   |
 |                                                             | sihyun          | [@skim0726](https://github.com/skim0726)               |
