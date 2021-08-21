@@ -62,8 +62,10 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
 | [Woolim Lee](https://nomadcoders.co/users/nomorebuild)      | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
+| [zipperdev](https://nomadcoders.co/users/zipperdev)         | zipperdev       | [@zipperdev](https://github.com/zipperdev)             |
 | [김은수](https://nomadcoders.co/users/eunsuay28)            | eunsuay28       | [@eunsu28](https://github.com/eunsu28)                 |
 | [내공[100]](https://nomadcoders.co/users/nagong100)         | nagong100       | [@LESANF](https://github.com/LESANF)                   |
+| [심심하다](https://nomadcoders.co/users/legendpig)          | 심심하다        | [@jing341](https://github.com/jing341)                 |
 | [이동욱](https://nomadcoders.co/users/ehddnr)               | ehddnr          | [@ehddnr301](https://github.com/ehddnr301)             |
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [이수운](https://nomadcoders.co/users/sktjsvy2)             | 이수운          | [@leesuun](https://github.com/leesuun)                 |
