@@ -51,6 +51,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Jeong](https://nomadcoders.co/users/bugod)                 | 정              | [@bugoverdose](https://github.com/bugoverdose)         |
 | [Jessica Oh](https://nomadcoders.co/users/joh)              | Jess O          | [@jessicajiwonoh](https://github.com/jessicajiwonoh)   |
 | [JUNHYUK CHOI](https://nomadcoders.co/users/hshine1226)     | JUNHYUK CHOI    | [@hshine1226](https://github.com/hshine1226)           |
+| [just-do-halee](https://nomadcoders.co/users/dohalee)       | just-do-halee   | [@just-do-halee](https://github.com/just-do-halee)     |
 | [ki hyun lee](https://nomadcoders.co/users/daveg7lee)       | ki hyun lee     | [@daveg7lee](https://github.com/daveg7lee)             |
 | [LEE Seungje](https://nomadcoders.co/users/sonyun24)        | LEE Seungje     | [@sonyun247](https://github.com/sonyun247)             |
 | [MADANG](https://nomadcoders.co/users/madanggarden)         | Madang          | [@mdgarden](https://github.com/mdgarden)               |
