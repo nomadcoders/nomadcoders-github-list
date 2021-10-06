@@ -43,6 +43,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [hy01n](https://nomadcoders.co/users/hobbyhyoin)            | hy01n           | [@hy01n](https://github.com/hy01n)                     |
 | [Hyunjae Sung](https://nomadcoders.co/users/stevy)          | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
+| [Hyunjoon Choi](https://nomadcoders.co/users/devholic)      | Hyunjoon Choi   | [@devholic22](https://github.com/devholic22)           |
 | [HyunJunYong](https://nomadcoders.co/users/yongyong)        | 용용            | [@Yongveloper](https://github.com/Yongveloper)         |
 | [JAE SUNG CHOI](https://nomadcoders.co/users/dhddldid04)    | dhddldid        | [@dhddldid](https://github.com/dhddldid)               |
 | [Jaewon](https://nomadcoders.co/users/jwlee134)             | Jaewon          | [@Jwlee134](https://github.com/Jwlee134)               |
