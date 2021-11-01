@@ -36,6 +36,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | ----------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [bandor](https://nomadcoders.co/users/bandor)               | bandor          | [@Keeper991](https://github.com/Keeper991)             |
 | [bril-liant](https://nomadcoders.co/users/brilliant)        | YSP             | [@bril-liant](https://github.com/bril-liant)           |
+| [Byungho Lee](https://nomadcoders.co/users/andyleeboo92)    | andyleeboo      | [@andyleeboo](https://github.com/andyleeboo)           |
 | [clomia](https://nomadcoders.co/users/clomia)               | clomia          | [@clomia](https://github.com/clomia)                   |
 | [comographer](https://nomadcoders.co/users/kimgeunmo)       | Comographer     | [@comographer](https://github.com/comographer)         |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
@@ -66,6 +67,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                   |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin    | [@chemtae](https://github.com/chemtae)                 |
 | [Woolim Lee](https://nomadcoders.co/users/nomorebuild)      | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)         |
+| [yong2401](https://nomadcoders.co/users/yong2401)           | ellie_dev       | [@YounglanHong](https://github.com/YounglanHong)       |
 | [zipperdev](https://nomadcoders.co/users/zipperdev)         | zipperdev       | [@zipperdev](https://github.com/zipperdev)             |
 | [김은수](https://nomadcoders.co/users/eunsuay28)            | eunsuay28       | [@eunsu28](https://github.com/eunsu28)                 |
 | [냥이](https://nomadcoders.co/users/taewoo0904)             | 냥이            | [@Nyanggi](https://github.com/Nyanggi)                 |
@@ -163,6 +165,3 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                             | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                             | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
-|[yong2401](https://nomadcoders.co/users/yong2401)            | ellie_dev       | [@YounglanHong](https://github.com/YounglanHong)       |
-| [Byungho Lee](https://nomadcoders.co/users/andyleeboo92)    | andyleeboo      | [@andyleeboo](https://github.com/andyleeboo)           |
-
