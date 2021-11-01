@@ -163,4 +163,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | 음흠            | [sangwoo-98](https://github.com/sangwoo-98)            |
 |                                                             | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                             | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
+|[yong2401](https://nomadcoders.co/users/yong2401)            | ellie_dev       | [@YounglanHong](https://github.com/YounglanHong)       |
 | [Byungho Lee](https://nomadcoders.co/users/andyleeboo92)    | andyleeboo      | [@andyleeboo](https://github.com/andyleeboo)           |
+
