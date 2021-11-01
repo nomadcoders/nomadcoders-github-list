@@ -35,6 +35,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | Profile(NomadCoders)                                        | Nickname(Slack) | Github                                                 |
 | ----------------------------------------------------------- | --------------- | ------------------------------------------------------ |
 | [bandor](https://nomadcoders.co/users/bandor)               | bandor          | [@Keeper991](https://github.com/Keeper991)             |
+| [bril-liant](https://nomadcoders.co/users/brilliant)        | YSP             | [@bril-liant](https://github.com/bril-liant)           |
 | [clomia](https://nomadcoders.co/users/clomia)               | clomia          | [@clomia](https://github.com/clomia)                   |
 | [comographer](https://nomadcoders.co/users/kimgeunmo)       | Comographer     | [@comographer](https://github.com/comographer)         |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
@@ -163,3 +164,5 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                             | 정지용          | [@wscrg](https://github.com/wscrg)                     |
 |                                                             | 코딩하는 펭귄   | [@coodingpenguin](https://github.com/coodingpenguin)   |
 |[yong2401](https://nomadcoders.co/users/yong2401)            | ellie_dev       | [@YounglanHong](https://github.com/YounglanHong)       |
+| [Byungho Lee](https://nomadcoders.co/users/andyleeboo92)    | andyleeboo      | [@andyleeboo](https://github.com/andyleeboo)           |
+
