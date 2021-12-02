@@ -67,6 +67,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [Seongjun Jang](https://nomadcoders.co/users/peinguin77)    | Seongjun Jang   | [@junnei](https://github.com/junnei)                 |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin    | [@chemtae](https://github.com/chemtae)               |
 | [Woolim Lee](https://nomadcoders.co/users/nomorebuild)      | NoMoreBuild     | [@NoMoreBuild](https://github.com/NoMoreBuild)       |
+| [WHYjun](https://nomadcoders.co/users/whyjun)               | Young(WHYjun)   | [@WHYjun](https://github.com/WHYjun)                 |
 | [yong2401](https://nomadcoders.co/users/yong2401)           | ellie_dev       | [@YounglanHong](https://github.com/YounglanHong)     |
 | [zipperdev](https://nomadcoders.co/users/zipperdev)         | zipperdev       | [@zipperdev](https://github.com/zipperdev)           |
 | [김은수](https://nomadcoders.co/users/eunsuay28)            | eunsuay28       | [@eunsu28](https://github.com/eunsu28)               |
