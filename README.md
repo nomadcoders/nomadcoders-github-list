@@ -82,5 +82,6 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [이수운](https://nomadcoders.co/users/sktjsvy2)             | 이수운           | [@leesuun](https://github.com/leesuun)               |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈             | [@Achelous1](https://github.com/Achelous1)           |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍          | [@shhong7757](https://github.com/shhong7757)         |
-| [ㅇㅅㅇ](https://nomadcoders.co/users/ice0208)              | ICE0208         | [@ICE0208](https://github.com/ICE0208)               |
+| [ㅇㅅㅇ](https://nomadcoders.co/users/ice0208)              | ICE0208          | [@ICE0208](https://github.com/ICE0208)               |
 | [Yeonho Kim](https://nomadcoders.co/users/kyh0703)          | overthinker1127  | [@kyh0703](https://github.com/kyh0703)               |
+| [Looksh](https://nomadcoders.co/users/lookshdev)            | Looksh           | [@Looksh](https://github.com/Looksh)                 |
