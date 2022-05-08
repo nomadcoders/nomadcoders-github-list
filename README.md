@@ -85,3 +85,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [ㅇㅅㅇ](https://nomadcoders.co/users/ice0208)              | ICE0208          | [@ICE0208](https://github.com/ICE0208)               |
 | [Yeonho Kim](https://nomadcoders.co/users/kyh0703)          | overthinker1127  | [@kyh0703](https://github.com/kyh0703)               |
 | [Looksh](https://nomadcoders.co/users/lookshdev)            | Looksh           | [@Looksh](https://github.com/Looksh)                 |
+| [jongdeug](https://nomadcoders.co/users/jongdeug)           | JongDeug         | [@JongDeug](https://github.com/JongDeug)             |
