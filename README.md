@@ -72,6 +72,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [SYMist](https://nomadcoders.co/users/mmist0226)            | 비바비바         | [@SYMist](https://github.com/SYMist)                 |
 | [Taeroo](https://nomadcoders.co/users/taeroo612)            | Chemtae Shin     | [@chemtae](https://github.com/chemtae)               |
 | [Woolim Lee](https://nomadcoders.co/users/forestlee)        | ForestLee(NMB)   | [@ForestLee](https://github.com/ForestLee0513)       |
+| [WONSUNGJUN](https://nomadcoders.co/users/wonsungjun)       | WONSUNGJUN       | [@WONSUNGJUN](https://github.com/wonsungjun)         |
 | [WHYjun](https://nomadcoders.co/users/whyjun)               | Young(WHYjun)    | [@WHYjun](https://github.com/WHYjun)                 |
 | [Yeonho Kim](https://nomadcoders.co/users/kyh0703)          | overthinker1127  | [@kyh0703](https://github.com/kyh0703)               |
 | [yong2401](https://nomadcoders.co/users/yong2401)           | ellie_dev        | [@YounglanHong](https://github.com/YounglanHong)     |
