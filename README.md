@@ -90,3 +90,4 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈             | [@Achelous1](https://github.com/Achelous1)           |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍          | [@shhong7757](https://github.com/shhong7757)         |
 | [0622yeon](https://nomadcoders.co/users/0622yeon)         | Hyerong          | [@yeonhyeeun](https://github.com/yeonhyeeun)         |
+| [Euiseon](https://nomadcoders.co/users/inia8inia)         | Euiseon          | [@Euiseon](https://github.com/Euiseon-Lee)         |
