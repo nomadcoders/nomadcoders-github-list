@@ -37,6 +37,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [0622yeon](https://nomadcoders.co/users/0622yeon)           | Hyerong           | [@yeonhyeeun](https://github.com/yeonhyeeun)         |
 | [Byungho Lee](https://nomadcoders.co/users/andyleeboo92)    | andyleeboo        | [@andyleeboo](https://github.com/andyleeboo)         |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee      | [@DRLee98](https://github.com/DRLee98)               |
+| [Euiseon](https://nomadcoders.co/users/inia8inia)           | Euiseon           | [@Euiseon](https://github.com/Euiseon-Lee)           |
 | [Gunwoo](https://nomadcoders.co/users/gunwoo.dev)           | Martin            | [@gunwooko](https://github.com/gunwooko)             |
 | [Henry](https://nomadcoders.co/users/vanillalattejs)        | vanillaLatteJS    | [@devgony](https://github.com/devgony)               |
 | [HyunJunYong](https://nomadcoders.co/users/yongyong)        | 용용              | [@Yongveloper](https://github.com/Yongveloper)       |
