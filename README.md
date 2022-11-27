@@ -72,6 +72,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [doksuri761](https://nomadcoders.co/users/factorio)         | DGM               | [@doksuri761](https://github.com/doksuri761)         |
 | [emewjiin](https://nomadcoders.co/users/emewjin)            | emewjin           | [@emewjin](https://github.com/emewjin)               |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker        | [@hexdrinker](https://github.com/hexdrinker)         |
+| [hoya](https://nomadcoders.co/users/angelring127)           | 나루              | [@angelring127](https://github.com/angelring127)     |
 | [hy01n](https://nomadcoders.co/users/hobbyhyoin)            | hy01n             | [@hy01n](https://github.com/hy01n)                   |
 | [jongdeug](https://nomadcoders.co/users/jongdeug)           | JongDeug          | [@JongDeug](https://github.com/JongDeug)             |
 | [just-do-halee](https://nomadcoders.co/users/dohalee)       | just-do-halee     | [@just-do-halee](https://github.com/just-do-halee)   |
