@@ -65,6 +65,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [WONSUNGJUN](https://nomadcoders.co/users/wonsungjun)       | WONSUNGJUN        | [@WONSUNGJUN](https://github.com/wonsungjun)         |
 | [Woolim Lee](https://nomadcoders.co/users/forestlee)        | ForestLee(NMB)    | [@ForestLee](https://github.com/ForestLee0513)       |
 | [Yeonho Kim](https://nomadcoders.co/users/kyh0703)          | overthinker1127   | [@kyh0703](https://github.com/kyh0703)               |
+| [a.noru18](https://nomadcoders.co/users/noru5728)           | Noru              | [@kangdongil](https://github.com/kangdongil)         |
 | [bandor](https://nomadcoders.co/users/bandor)               | bandor            | [@Keeper991](https://github.com/Keeper991)           |
 | [bril-liant](https://nomadcoders.co/users/brilliant)        | YSP               | [@bril-liant](https://github.com/bril-liant)         |
 | [clomia](https://nomadcoders.co/users/clomia)               | clomia            | [@clomia](https://github.com/clomia)                 |
