@@ -42,6 +42,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [HyunJunYong](https://nomadcoders.co/users/yongyong)        | 용용              | [@Yongveloper](https://github.com/Yongveloper)       |
 | [Hyunjae Sung](https://nomadcoders.co/users/stevy)          | Stevy             | [@hyunjaesung](https://github.com/hyunjaesung)       |
 | [Hyunjoon Choi](https://nomadcoders.co/users/devholic)      | Hyunjoon Choi     | [@devholic22](https://github.com/devholic22)         |
+| [Jace](https://nomadcoders.co/users/jacealan1)              | Jace Alan         | [@jacealan](https://github.com/jacealan)             |
 | [JAE SUNG CHOI](https://nomadcoders.co/users/dhddldid04)    | dhddldid          | [@dhddldid](https://github.com/dhddldid)             |
 | [JD](https://nomadcoders.co/users/sanham1992)               | JD                | [@SHHam12](https://github.com/SHHam12)               |
 | [JUNHYUK CHOI](https://nomadcoders.co/users/hshine1226)     | JUNHYUK CHOI      | [@hshine1226](https://github.com/hshine1226)         |
